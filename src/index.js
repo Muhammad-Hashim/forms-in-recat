@@ -15,3 +15,12 @@ ReactDOM.render(
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
+const  hashim =['hashim ','hahshas','sdsads','aasassa']
+const no=['hashkikng ','goood ','nsdjksbds']
+const has=['sdsddsdsdss',...no , ...hashim]
+console.log(has)
+
+
+const [First,...remaning]=hashim
+console.log(First)
+console.log(remaning)
